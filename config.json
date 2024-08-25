@@ -1,0 +1,4 @@
+{
+    "api_key": "your api",
+    "prompt_path" : "./prompt.txt"
+}

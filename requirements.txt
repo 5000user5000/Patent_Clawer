@@ -1,0 +1,4 @@
+requests
+pywebview
+beautifulsoup4
+google-generativeai
